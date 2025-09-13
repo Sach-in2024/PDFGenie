@@ -1,5 +1,7 @@
 # 📄 PDF Chatbot - Summarize & Query Your PDFs
 
+<img width="1773" height="359" alt="Screenshot 2025-09-13 160838" src="https://github.com/user-attachments/assets/67bd3fa2-068a-4077-b0ad-41e9493af2c4" />
+
 A **Streamlit-based AI Chatbot** that allows you to **upload PDFs** and interact with them using **natural language queries**. It also provides accurate summaries and handles large PDF files efficiently.
 
 ---
